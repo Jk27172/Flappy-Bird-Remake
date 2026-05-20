@@ -20,7 +20,7 @@ Press SPACE to fly and avoid pipes.
 ## Screenshots
 
 ![Gameplay](https://github.com/Jk27172/flappy-Bird-Remake/blob/main/Screenshots/Game%20Over%20Screen.png)
-![Gameover](Screenshots/GameOverScreen.png)
+![Gameover](https://github.com/Jk27172/flappy-Bird-Remake/blob/main/Screenshots/Game%20Play%20Screen.png)
 
 ## Author
 Tashmi
